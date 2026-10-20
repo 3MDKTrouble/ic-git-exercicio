@@ -1,4 +1,4 @@
-# Projeto Git IC, Aula 7 Prática
+# Projeto de Introdução à Computação - Versão A
 
 ## Primeiro trabalho de Git em Introdução a Computação
 
